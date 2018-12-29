@@ -8,3 +8,7 @@ Mesmerising cross-browser SVG circle split animation using various svg elements 
     <p>Animation preview</p>
     <img src="https://raw.githubusercontent.com/edindelan/svg-circle-split-animation/master/assets/img/svg-circle-split-animation.gif"/>
 </p>
+
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
